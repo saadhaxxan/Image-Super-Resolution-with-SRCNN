@@ -6,10 +6,17 @@ The original paper is [Learning a Deep Convolutional Network for Image Super-Res
   <img src="screenshots/SRCNN.png" width="800"/>
 </p>
 
-## this Project 
+## This Project 
 
 - [x] Use the PSNR, MSE, and SSIM image quality metrics
 - [x] Process images using OpenCV
 - [x] Convert between the RGB, BGR, and YCrCb color spaces
 - [x] Build SRCNN deep neural network architecture in Keras
 - [x] Deploy and evaluate the SRCNN network 
+
+## Use:
+Excute:
+`python SRCNN.py`
+
+## Colab Demo (Coming Soon)
+
