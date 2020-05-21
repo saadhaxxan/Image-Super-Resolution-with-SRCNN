@@ -15,7 +15,7 @@ The original paper is [Learning a Deep Convolutional Network for Image Super-Res
 - [x] Deploy and evaluate the SRCNN network 
 
 ## Use:
-Excute:
+Execute:
 `python SRCNN.py`
 
 ## Results
