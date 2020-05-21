@@ -20,7 +20,7 @@ Excute:
 
 ## Results
 <p align="center">
-  <img src="screenshots/screenshot.png" width="800"/>
+  <img src="screenshots/screenshot.jpg" width="800"/>
 </p>
 
 ### Colab Demo (Coming Soon)
@@ -39,7 +39,7 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/AIPakistan.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/saadhaxxan/Image-Super-Resolution-with-SRCNN/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Image-Super-Resolution-with-SRCNN.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/saadhaxxan/Image-Super-Resolution-with-SRCNN/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
