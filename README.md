@@ -43,3 +43,5 @@ If you find any bug in the code or have any improvements in mind then feel free 
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
+## LICENSE
+- MIT (2021)
